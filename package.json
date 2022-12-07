@@ -1,7 +1,7 @@
 {
   "name": "forgive",
-  "version": "0.0.2",
-  "description": "A tutorial for learning nuxt and about forgiveness in the Bible.",
+  "version": "0.0.3",
+  "description": "A repo for learning nuxt step by step, where every step has its own release.",
   "author": "Gudsbarn",
   "license": "MIT",
   "repository": {
@@ -11,7 +11,8 @@
   "homepage": "https://forgive.vercel.app",
   "keywords": [
     "nuxt",
-    "vercel"
+    "vercel",
+    "learning"
   ],
   "devDependencies": {
     "nuxt": "^3.0.0",
